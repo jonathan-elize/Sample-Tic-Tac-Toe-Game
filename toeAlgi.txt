@@ -1,0 +1,35 @@
+//the board marks will be from outputting a 2-d array
+//variables x and y will get the coordinates
+//variable gStatus will indicate the game status
+//variable endGame determines wether game continues
+//numMoves holds number of moves it user will make
+
+//Intro:
+	//statusDisplay()
+	//displayBoard()
+
+//while(!endGame)
+	//prompt for numMoves
+	//for loop to get moves based on number of moves
+		//prompt for letter and position
+		//markBoard()
+		//statusCheck()
+		//statusDisplay()
+		//displayBoard()	
+//end
+
+//functions
+
+//statusDisplay
+//displays status of the game based on gStatus 
+
+//displayBoard
+//displays board using board array
+
+//makeBoard
+//takes letter and position inputed by user and places them in array for board
+
+//statusCheck()
+//takes array, gStatus, and enGame and decides wether someone has one and game
+//needs to end
+
